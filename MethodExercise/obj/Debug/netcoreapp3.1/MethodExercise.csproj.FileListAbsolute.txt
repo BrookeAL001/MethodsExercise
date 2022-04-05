@@ -1,0 +1,13 @@
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.exe
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.deps.json
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.json
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.dev.json
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfo.cs
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\12053\source\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache
